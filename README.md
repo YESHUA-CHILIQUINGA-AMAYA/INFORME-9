@@ -270,6 +270,7 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ## 4.Video:
 
+https://youtu.be/27Z7hANd77M
 
 ## 5.Conclusiones:
 
