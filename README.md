@@ -5,7 +5,7 @@
 
 ### Nombre: Yeshua Chiliquinga Amaya
 
-1.Objetivos:
+## 1.Objetivos:
 
 1.1. Objetivo general:
 
@@ -17,7 +17,7 @@ Analizar las características de los circuitos RLC, resonancia y los filtros pas
 * Analizar la resonancia en serie y paralelo, como también la frecuencia en el análiss de los circuitos RLC en serie, paralelo y mixto.
 * Resolver los ejercicios aplicando las formulas aprendidas y detallar los ejercicios.
 
-2.Marco Teorico:
+## 2.Marco Teorico:
 
 ![1](https://user-images.githubusercontent.com/104863870/187350110-ad93566f-dbb3-49f9-83e9-3d82e1712e83.jpg)
 
@@ -268,5 +268,18 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ![image](https://user-images.githubusercontent.com/104863870/187352551-cc74e218-96de-4596-ada8-eeed7930ef2b.png)
 
+## 4.Video:
 
+
+## 5.Conclusiones:
+
+* El circuito RLC, es un circuito que consiste de uan resistencia, un inductor y un capacitor, estos pueden estar conectados individualmente en serie o en paralelo y hasta pueden ser mixtos, estos, muchas aplicaciones como circuitos osciladores y estos se diferencias entre sí mediante la forma en que están compuestos.
+* Estos circuitos pueden usarse como filtro de paso de banda, alto y bajo, es decir, que el ciruicto RLC es un descrito como un circuito de segundo orden, lo cual quiere decir que cualquier volataje o corriente pueden ser descrito como una ecuación diferencial de segundo orden, para el análisis del respectivo.
+* Usando formulas que relacionan los datos desconocidos, no permite desarrollar los problemas planteados de la manera más adecuada, como es el caso para calcular la impedancia, corriente, reactancia, teniendo en cuenta de que la forma polar para los cálculos son más sencillos, que estos resultados que relacionan la corriente y voltaje con un ángulo, y se lo reperesenta mediante un diagrama fasorial.
+
+## Bibliografía
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rlc-natural-response-intuition
 
